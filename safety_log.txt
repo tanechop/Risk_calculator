@@ -1,0 +1,21 @@
+2026-07-15 23:24:32.198088 | Douala | safe
+2026-07-15 23:24:32.200128 | Bamenda | high Risk
+2026-07-15 23:24:32.200128 | Kribi | safe
+2026-07-15 23:24:32.201132 | Yaounde | safe
+2026-07-15 23:24:32.202146 | Bafoussam | safe
+2026-07-15 23:24:32.202146 | Nkongsamba | high Risk
+2026-07-15 23:24:32.203150 | Limbe | high Risk
+2026-07-15 23:27:48.748150 | Douala | safe
+2026-07-15 23:27:48.753148 | Bamenda | high Risk
+2026-07-15 23:27:48.755150 | Kribi | safe
+2026-07-15 23:27:48.756985 | Yaounde | safe
+2026-07-15 23:27:48.757986 | Bafoussam | safe
+2026-07-15 23:27:48.758483 | Nkongsamba | high Risk
+2026-07-15 23:27:48.762579 | Limbe | high Risk
+2026-07-15 23:30:35.655895 | Douala | safe
+2026-07-15 23:30:35.657903 | Bamenda | high Risk
+2026-07-15 23:30:35.658910 | Kribi | safe
+2026-07-15 23:30:35.659919 | Yaounde | safe
+2026-07-15 23:30:35.660951 | Bafoussam | safe
+2026-07-15 23:30:35.660951 | Nkongsamba | high Risk
+2026-07-15 23:30:35.662443 | Limbe | high Risk
